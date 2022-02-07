@@ -101,7 +101,7 @@ apt install -y linux-headers-$(uname -r)
 
 ## Credit :
 
-*   V-Code [V-Code](https://t.me/Virtual_NW)
+*   [V-Code](https://t.me/Virtual_NW)
 
 *   Project X
 
