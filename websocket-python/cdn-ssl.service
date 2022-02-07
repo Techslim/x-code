@@ -1,7 +1,7 @@
 # /usr/local/bin/cdn-ssl
 [Unit]
 Description=Python WS-SSL By Techslim
-Documentation=https://virtual.xyz
+Documentation=https://Techslim.xyz
 After=network.target nss-lookup.target
 
 [Service]
