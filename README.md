@@ -66,9 +66,6 @@ apt install -y linux-headers-$(uname -r)
   - Badvpn                  : 7100, 7200, 7300
   - Nginx                   : 81
   - Wireguard               : 5820
-  - L2TP/IPSEC VPN          : 1701
-  - PPTP VPN                : 1732
-  - SSTP VPN                : 444
   - Shadowsocks-R           : 1443-1543
   - SS-OBFS TLS             : 2443-2543
   - SS-OBFS HTTP            : 3443-3543
