@@ -77,7 +77,7 @@ apt install -y linux-headers-$(uname -r)
   - XRAY Vmess Grpc TLS     : 2083
   - XRAY Vless Grpc TLS     : 880
   - XRAY Trojan TCP TLS     : 2087
-  - XRAY Trojan GRPC TLS    : 2087
+  - XRAY Trojan GRPC TLS    : 2088
 
  >>> Server Information & Other Features
    - Timezone                 : Asia/Kuala_Lumpur (GMT +8)
