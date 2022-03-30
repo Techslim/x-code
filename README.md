@@ -70,11 +70,12 @@ apt install -y linux-headers-$(uname -r)
   - SS-OBFS TLS             : 2443-2543
   - SS-OBFS HTTP            : 3443-3543
   - XRAY Vmess TLS          : 443
-  - XRAY Vmess None TLS     : 880
+  - XRAY Vmess None TLS     : 89
   - XRAY Vless TLS          : 8443
   - XRAY Vless None TLS     : 8880
   - XRAY Vless Xtls DIRECT  : 9443
   - XRAY Trojan TCP TLS     : 2087
+  - Trojan Go               : 80
 
  >>> Server Information & Other Features
    - Timezone                 : Asia/Kuala_Lumpur (GMT +8)
